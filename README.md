@@ -9,7 +9,7 @@
 
 ## Work Experience:
 #### 1. [Aipel Computer](https://swalayankomputer.com) | Multimedia and Marketplace Admin | Surabaya August '2020 - February '2021
-   - Experienced with social media and communications platforms.
+   - Experienced with social media and communication platforms.
    - Provided efficient and courteous service to customers at all times.
    - Committed to delivering excellent customer service while working in a fast-paced environment.
    - Responded quickly to meet customer needs and resolve problems.
@@ -22,7 +22,7 @@
    - Entered information from various sources into the appropriate databases quickly and accurately.
    - Reviewed data entry activity to verify accurate completion of routine and special assignments.
 #### 4. [Freelance](https://www.oucru.org) | Tutor of Engineering Mathematics | Surabaya August '2018- February 2021'
-   - Teaching and Project Completion Monitoring.
+   - Teaching and project completion monitoring.
 
 ## Skills:
    - AI, ML, Graph Theory, Algebra, Mathematical Modelling.
