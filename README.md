@@ -21,8 +21,13 @@
    - Updated existing records as needed when changes occurred or new information was received.
    - Entered information from various sources into the appropriate databases quickly and accurately.
    - Reviewed data entry activity to verify accurate completion of routine and special assignments.
-#### 4. [Freelance](https://www.oucru.org) | Tutor of Engineering Mathematics | Surabaya August '2018- February 2021'
-   - Teaching and project completion monitoring.
+#### 4. [Freelance] | Operations Research Tutor | Surabaya August '2018- February 2021'
+   - Product Design and Analysis
+   - Linear Regression
+   - Lot Sizing Productions
+   - Six Sigma Analysis
+   - Reliability Centered Maintenance Analysis
+   - Mixed Integer Linear programming
 
 ## Skills:
    - AI, ML, Graph Theory, Algebra, Mathematical Modelling.
